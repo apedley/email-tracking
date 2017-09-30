@@ -1,0 +1,14 @@
+{
+  "development": {
+    "port": 3000,
+    "db": "mongodb://"
+  },
+  "test": {
+    "port": 3500,
+    "db": "mongodb://"
+  },
+  "prod": {
+    "port": 8080,
+    "db": "mongodb://"
+  }
+}
